@@ -4,7 +4,7 @@
 
 1. [4G | ShareTechnote](https://www.sharetechnote.com/html/Handbook_LTE_BeamForming.html)
 2. [5G大规模天线阵列的振子数，天线数，通道数，流数之间到底是什么关系？ - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/259402194)
-3. [5G怎样实现波束赋形？_波束赋形技术-CSDN博客](https://blog.csdn.net/flypassion/article/details/106453136?ops_request_misc=%7B%22request%5Fid%22%3A%22162842721816780357228367%22%2C%22scm%22%3A%2220140713.130102334.pc%5Fblog.%22%7D&request_id=162842721816780357228367&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~blog~first_rank_v2~rank_v29-4-106453136.pc_v2_rank_blog_default&utm_term=全向波束 与 定向波束&spm=1018.2226.3001.4450)
+3. [5G怎样实现波束赋形？_波束赋形技术-CSDN博客](https://blog.csdn.net/flypassion/article/details/106453136?ops_request_misc=%7B%22request%5Fid%22%3A%22162842721816780357228367%22%2C%22scm%22%3A%2220140713.130102334.pc%5Fblog.%22%7D&request_id=162842721816780357228367&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~blog~first_rank_v2~rank_v29-4-106453136.pc_v2_rank_blog_default&utm_term=全向波束与定向波束&spm=1018.2226.3001.4450)
 
 ## 关于使用格雷码时BPSK与QPSK误码率
 
