@@ -4,11 +4,11 @@
 
 # surliness <small>life finds a way</small>
 
-> 一个神奇的文档网站生成器。
+> 这是个临时的云盘🤪。
 
 - 简单、轻便 (压缩后 ~21kB)
 - 无需生成 html 文件
 - 众多主题
 
-[GitHub](https://github.com/docsifyjs/docsify/)
+[Docsify](https://github.com/docsifyjs/docsify/)
 [Get Started](/README.md)
